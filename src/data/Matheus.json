@@ -1,0 +1,176 @@
+{
+	"ficha": {
+		"Descrição": {
+			"nome": "Matheus Irvine Sancho",
+			"ocupação": "Pesquisador/estudante",
+			"nacionalidade": "Brasileiro",
+			"sexo": "Masculino",
+			"idade": 27,
+			"físico": 0,
+			"dinheiro": 10000.99
+		},
+		"Detalhes": {
+			"história": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus lectus ut condimentum tempus. Suspendisse pharetra velit non imperdiet vulputate. Curabitur viverra consectetur elit, quis posuere libero ultrices vitae. Nulla vel efficitur erat. Morbi suscipit gravida rutrum. Fusce nec urna purus. Vivamus vitae nulla nec sapien venenatis aliquam. Etiam ut lectus erat. Cras felis orci, dictum a cursus sit amet, ultricies efficitur nulla. Quisque volutpat viverra neque nec semper. Suspendisse sed nulla pretium, blandit libero vel, dapibus erat. Nulla laoreet purus ac placerat tempus. Proin porta augue ut massa commodo, eget auctor purus fermentum. Cras et ligula tincidunt, efficitur tellus vel, gravida quam. Vestibulum varius ornare ornare. Integer auctor rutrum tellus, vel suscipit risus dapibus at. Curabitur eu erat sit amet massa vestibulum efficitur. Nulla in est nec arcu condimentum lacinia a eu velit. In tempus condimentum lorem sit amet lobortis. Aliquam et justo vitae odio tincidunt blandit at sed arcu. Aenean dignissim tellus dignissim ligula dapibus, vel ultricies ante feugiat. Maecenas imperdiet, augue vitae iaculis commodo, lectus dolor molestie massa, vel commodo sapien turpis vitae nisi. Nullam tempor malesuada mauris sed malesuada. ",
+			"contatos":"",
+			"traumas": "",
+			"manias":"",
+			"machucado": ""
+		},
+		"Características": {
+			"força": 35,
+			"constituição": 70,
+			"tamanho": 60,
+			"destreza": 45,
+			"aparência": 40,
+			"inteligência": 60,
+			"dano bônus": 0,
+			"poder": 70,
+			"educação": 88,
+			"movimentação": 7,
+			"sorte": 13
+
+		},
+		"Sanidade": {
+			"atual": 23,
+			"total": 70
+		},
+		"Vida": {
+			"atual": 10,
+			"total": 13
+		},
+		"Sorte": {
+			"dado": 100,
+			"atual": 1,
+			"total": 13
+		},
+		"Habilidades": {
+			"interpessoal": {
+				"charme": 15,
+				"conversinha": 5,
+				"intimidar": 15,
+				"persuadir": 30
+			},
+			"úteis": {
+				"arremesar": 20, 
+				"arrombar": 1, 
+				"dirigir": 20, 
+				"encontrar": 70, 
+				"escutar": 48, 
+				"esquivar": 23, 
+				"escalar": 30, 
+				"furtividade": 20, 
+				"medicina": 1, 
+				"primeiros socorros": 33, 
+				"sobrenatural": 20,
+				"psicologia": 10
+			},
+			"artísticos": {
+				"atuação": 5,
+				"desenho": 30,
+				"falsificação": 5,
+				"fotografia": 25
+			},
+			"ciências": {
+				"astronomia": 61,
+				"biologia": 1,
+				"botânica": 1,
+				"criptografia": 1,
+				"farmácia": 1,
+				"física": 21,
+				"geologia": 54,
+				"inv. forense": 15,
+				"matemática": 41,
+				"metereologia": 1,
+				"química": 1,
+				"zoologia": 1
+			},
+			"idiomas": {
+				"nativo": 88,
+				"inglês": "",
+				"alemão": ""
+			},
+			"demais": {
+				"antropologia": 1,
+				"arrombar": 1,
+				"arqueologia": 46,
+				"avaliação": 5,
+				"cavalgar": 5,
+				"crédito": 0,
+				"contabilidade": 5,
+				"lendas": 0,
+				"disfarce": 5,
+				"eletrônica": 1,
+				"história": 20,
+				"lei": 5,
+				"maquinário pesado": 5,
+				"mãos ligeiras": 10,
+				"mergulho": 1,
+				"mundo natural": 10,
+				"nadar": 20,
+				"navegar": 10,
+				"pilotagem": 3,
+				"psicanalise": 1,
+				"pular": 20,
+				"rastrear": 30,
+				"reparo elétrico": 10,
+				"reparo mecânico": 10,
+				"uso de bibliotecas": 50,
+				"uso de computadores": 5
+			},
+			"armas de fogo": {
+				"pistola": 20,
+				"shotgun": 30,
+				"submetralhadora": 15,
+				"rifle": 25,
+				"pesadas": 10,
+				"lança-chamas": 20
+			},
+			"luta": {
+				"briga": 30,
+				"espada": 20,
+				"machado": 15
+			}
+		},
+		"Inventário": {
+			"armas": [
+				{
+					"arma": "arma1", 
+					"dano": "2d4 + 2", 
+					"munição": 10,
+					"peso": 5
+				},
+				{
+					"arma": "arma2", 
+					"dano": "2d6 + 2d10 + 4", 
+					"munição": 20,
+					"peso": 7
+				}
+			],
+			"bolso":[
+				{
+					"item": "chave", 
+					"quantidade": "2"
+				},
+				{
+					"item": "Betim", 
+					"quantidade": "1"
+				}
+			],
+			"mochila":[
+				{
+					"item": "chave de fenda", 
+					"quantidade": "1", 
+					"peso": 0.5
+				}
+			],
+			"peso":[
+				{
+					"atual": 20.5, 
+					"total": 20	
+				}
+			]		
+		}
+
+		
+	}
+}
